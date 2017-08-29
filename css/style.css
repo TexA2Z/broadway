@@ -1,4 +1,4 @@
-Html {
+html {
     font-family: Helvetica;
     font-weight: normal;
     text-align: center;
@@ -6,22 +6,19 @@ Html {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: white;
-}
+  }
 h2 {
   font-size: 32px;
   font-weight: bold;
-  color: gray;
 }
 h3 {
   font-size: 23px;
   font-weight: bold;
-  color: gray;
-}
+  }
 p {
-  color: gray;
   font-size: 14px;
 }
-#home {
-  background-image: url("/media/the-flatiron-building.png");
+div.white_text {
+    color: white;
+    background-image: url("././media/the-flatiron-building.png") 0 0 repeat-x;
 }
