@@ -23,5 +23,5 @@ p {
   font-size: 14px;
 }
 #home {
-  background-image: url("./media/the-flatiron-building.png");
+  background-image: url("/media/the-flatiron-building.png");
 }
