@@ -18,7 +18,25 @@ h3 {
 p {
   font-size: 14px;
 }
-div.white_text {
+h4 {
+  font-size: 11px;
+}
+.white_text {
     color: white;
-    background-image: url("the-flatiron-building.png") 0 0 repeat-x;
+    background-image: url("the-flatiron-building.png");
+    background-color: #666666;
+
+}
+
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: white;
+}
+a:active {
+    color: white;
 }
